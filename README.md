@@ -58,7 +58,7 @@ python PasswordGenRUN.py
 
 ## 🧑‍💻 Author
 
-**ROHIT**  
+**SHRUTI**  
 
 ---
 
